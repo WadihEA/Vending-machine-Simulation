@@ -1,0 +1,19 @@
+Chocolate	Galaxy	2000	50
+Chocolate	CoteDor	1000	20
+Chocolate	Galaxy	2000	50
+Chocolate	Galaxy	2000	50
+Chips	Master	500	true	10
+Chips	Chibbo	250	false	10
+Water	Soha	500	50
+Water	Rim	    250	30
+SoftDrinks	Pepsi	500	  true
+SoftDrinks	7Up	    250	  true
+SoftDrinks	Mirinda	1000  false
+SoftDrinks	Pepsi	500	  true
+Chips	Chibbo	250	false	10
+Water	Rim	    250	30
+SoftDrinks	7Up	    250	  true
+SoftDrinks	Pepsi	500	  false
+SoftDrinks	Pepsi	500	  true
+SoftDrinks	7Up	    250	  false
+Chocolate	CoteDor	1000	20
